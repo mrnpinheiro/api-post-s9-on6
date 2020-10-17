@@ -10,23 +10,6 @@ Aprender os conceitos de POST e DELETE, integrantes dos métodos HTTP.
 
 # Arquitetura 
 
- 📁 api
-   |-  📁 src
-   |    |- 📁 controllers
-            |- 📄 blogControllers.js
-   |    |- 📁 helpers
-            |- 📄 helper.js
-   |    |- 📁 models
-            |- 📄 blogModel.js
-   |    |- 📁 routes
-   |        |- 📄 blogRoute.js
-   |    |- 📄 app.js
-   |- 📄 package.json
-   |- 📄 package-lock.json
-   |- 📄 server.js
-   |- 📄 .gitignore
-   |- 📄 README.md
-
 ![Arquitetura do projeto](arquitetura.png)
 
 # Ferramentas utilizadas
